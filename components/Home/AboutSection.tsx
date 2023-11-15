@@ -9,7 +9,7 @@ export default function AboutSection() {
             <div className='w-full h-[40rem] bg-blue-300 text-center self-center items-center justify-center flex'>
                 <div>
                     <p className='text-7xl -md:text-6xl justify-self-start'>About Us</p>
-                    <p className='text-xl w-[500px] m-auto mt-10'>Lorem ipsum dolor sit amet consect etur adipisicing elit. Commodi iste voluptatibus  adipisci sint enim temporibus. l</p>
+                    <p className='text-xl w-[500px] m-auto mt-10'>Ashutosh tiwari from varanasi dolor sit amet consect etur adipisicing elit. Commodi iste voluptatibus  adipisci sint enim temporibus. l</p>
                     <p className='bg-gray-400 rounded-full w-[120px] m-auto px-5 py-2 mt-10'>Learn More</p>
                 </div>
             </div>
