@@ -59,7 +59,7 @@ export default function HomeDan() {
             </div>
             <div className='w-full h-[40rem] bg-black text-center self-center items-center justify-center flex'>
                 <div>
-                    <p className='text-white text-7xl sm-text-2xl'>"Technology is the Brush , and imagination  is the canvase together ,they paint the future."</p>
+                    <p className='text-white text-7xl sm-text-2xl'>Technology is the Brush , and imagination  is the canvase together ,they paint the future.</p>
                     <p className='text-5xl mt-10 text-gray-800'>DEVTECHIN</p>
                 </div>
             </div>
